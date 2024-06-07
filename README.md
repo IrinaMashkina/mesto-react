@@ -1,5 +1,4 @@
-### Mesto-react - 
-это тот же проект Mesto (https://github.com/IrinaMashkina/mesto.git) c таким же функционалом, но переписанный с чистого JS на React.
+### Mesto-react - это проект [Mesto](https://github.com/IrinaMashkina/mesto.git) c тем же функционалом, переписанный с чистого JS на React.
 ***
 
 <img src="./src/images/mesto.gif" width="200">
